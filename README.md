@@ -85,6 +85,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## Acknowledgements
 
 - This project uses historical stock price data from Yahoo Finance.
+- I learned how to implement the LSTM model for stock prediction from [HowTomakeitdone YouTube Channel](https://www.youtube.com/@HowTomakeitdone)
 - Thanks to the Keras and TensorFlow teams for their excellent libraries.
 
 ```
